@@ -1,0 +1,43 @@
+.container {
+  margin: 0 auto;  
+  width: 600px;
+}
+
+nav {
+  border-top: solid;
+  width: 600px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+
+}
+
+ul li {
+
+  list-style: none;
+  display: inline;
+  padding-right: 20px;
+}
+
+ul {
+   margin-left: -37px;
+}
+
+.content {
+   width: 597px;
+   border-right: solid;
+   border-top: solid;
+}
+
+.footer {
+width: 600px;
+border-top: solid;
+padding-bottom: 20px;
+padding-top: 20px;
+
+}
+
+p, h2, h3, h4 {
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
